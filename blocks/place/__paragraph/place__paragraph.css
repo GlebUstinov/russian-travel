@@ -1,0 +1,17 @@
+.place__paragraph {
+    margin: 0;
+    font-size: 18px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+
+.place__paragraph:first-child {
+    padding-bottom: 25px;
+}
+
+@media screen and (max-width: 1025px) {
+    .place__paragraph {
+        line-height: 26px;
+    }
+}
