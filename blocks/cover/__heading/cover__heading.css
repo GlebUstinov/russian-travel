@@ -11,9 +11,6 @@
     z-index: 10;
 }
 
-.cover__heading:hover {
-    text-decoration: underline;
-}
 
 @media screen and (max-width: 320px) {
     .cover__heading {
