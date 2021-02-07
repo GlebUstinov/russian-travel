@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     padding-bottom: 24px;
-    padding-top: 88px
+    padding-top: 88px;
 }
 
 @media screen and (max-width: 768px) {
