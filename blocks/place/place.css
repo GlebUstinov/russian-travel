@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .place {
         padding-bottom: 50px;
         align-items: center;

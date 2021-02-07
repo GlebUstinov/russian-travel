@@ -7,10 +7,9 @@
     width: calc(100% - 96px);
     max-width: 1184px;
     min-height: 740px;
-    padding-bottom: 90px;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
     .cover {
         min-height: 640px;
         width: 100%;
@@ -20,7 +19,6 @@
 @media screen and (max-width: 768px) {
     .cover {
         min-height: 480px;
-        width: 100%;
     }
 }
 
@@ -28,6 +26,5 @@
     .cover {
         min-height: 200px;
         padding-bottom: 64px;
-        width: 100%;
     }
 }
